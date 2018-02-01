@@ -42,11 +42,6 @@
 
 ## Storage 2
 * Database
-  * SQL
-    * MySQL
-    * SQL Server
-    * SQLite
-    * Postgres
   * NoSQL
     * MongoDb
     * Couch Db
