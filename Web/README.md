@@ -26,9 +26,7 @@
 * Consuming Web APIs
   * Facebook API/Twitter API/Github API/Slack API
 * Creating Web APIs
-  * Node + Express
-  * Node + Sails
-* GraphQL
+  * Node + (Express/Sails)
 
 ## Front-End 2
 * SASS
@@ -54,3 +52,6 @@
     * Couch Db
     * Cassandra
     * Redis
+
+## Web API 2
+* GraphQL
