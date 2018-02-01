@@ -24,10 +24,7 @@
 
 ## Web API
 * Consuming Web APIs
-  * Facebook API
-  * Twitter API
-  * Github API
-  * Slack API
+  * Facebook API/Twitter API/Github API/Slack API
 * Creating Web APIs
   * Node + Express
   * Node + Sails
