@@ -7,3 +7,4 @@ Focus is placed on the following paths:
 * [Desktop](/Desktop)
 * [Mobile & Wearable](/Mobile-%26-Wearable)
 * [Developer Tools](/Developer-Tools)
+* [Games & Graphics](/Games-%26-Graphics)
