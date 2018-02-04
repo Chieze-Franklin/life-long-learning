@@ -6,3 +6,4 @@ Focus is placed on the following paths:
 * [Web](/Web)
 * [Desktop](/Desktop)
 * [Mobile & Wearable](/Mobile-%26-Wearable)
+* [Developer Tools](/Developer-Tools)
