@@ -8,3 +8,4 @@ Focus is placed on the following paths:
 * [Mobile & Wearable](/Mobile-%26-Wearable)
 * [Developer Tools](/Developer-Tools)
 * [Games & Graphics](/Games-%26-Graphics)
+* [Operating System & Hardware](/Operating-System-%26-Hardware)
