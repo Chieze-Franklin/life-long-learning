@@ -8,3 +8,7 @@
 * 3D Games
 * Augmented Reality
 * Virtual Reality
+
+## Resources
+
+* [Gaming JavaScript](https://dev.to/kayis/gaming-javascript--294)
