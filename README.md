@@ -9,6 +9,7 @@ Focus is placed on the following paths:
 * [Developer Tools](/Developer-Tools)
 * [Games & Graphics](/Games-%26-Graphics)
 * [Operating System & Hardware](/Operating-System-%26-Hardware)
+* [AI](/AI)
 * [DevOps](/DevOps)
 * [Data & Security](/Data-%26-Security)
 * [Computer Science](/Computer-Science)
