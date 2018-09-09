@@ -9,5 +9,6 @@ Focus is placed on the following paths:
 * [Developer Tools](/Developer-Tools)
 * [Games & Graphics](/Games-%26-Graphics)
 * [Operating System & Hardware](/Operating-System-%26-Hardware)
+* [Data & Security](/Data-%26-Security)
 * [Computer Science](/Computer-Science)
 * [Anything Can Happen](/Anything-Can-Happen)
